@@ -1,0 +1,18 @@
+.accent {
+    font-weight: 700;
+  }
+  
+  .contacts {
+    list-style: decimal;
+  }
+  
+  .dltBtn {
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: transform 0.3s;
+  }
+  
+  .dltBtn:hover {
+    transform: translateX(-5px);
+  }

@@ -1,0 +1,17 @@
+.search {
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .searchName {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  input {
+    border-radius: 4px;
+    margin-bottom: 10px;
+    height: 30px;
+  }
